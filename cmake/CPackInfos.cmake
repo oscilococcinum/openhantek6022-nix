@@ -24,8 +24,9 @@ if (UNIX)
     set(CPACK_PACKAGING_INSTALL_PREFIX "/usr")
     set(CPACK_GENERATOR TGZ)
 
-    if (CMAKE_SYSTEM_NAME MATCHES "Linux")
+    if (CMAKE_SYSTEM_NAME MATCHES "Debian")
         set(CPACK_TARGET "")
+        set(CPACK_DEBIAN_PACKAGE_VERSION "1.0")
         set(CPACK_GENERATOR ${CPACK_GENERATOR} DEB RPM)
         install(
             FILES utils/udev_rules/60-openhantek.rules
