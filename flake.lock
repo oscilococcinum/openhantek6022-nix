@@ -3,23 +3,23 @@
     "devdrop": {
       "flake": false,
       "locked": {
-        "lastModified": 1710538296,
-        "narHash": "sha256-hhdvL83h4FjRnQG8EU+aXkwlpnO1ABwuUvtS4ico+zY=",
+        "lastModified": 1741102621,
+        "narHash": "sha256-EqEovyHpLZCy+FYLlJSn2ujaLnKqCP2PTn7+Dcam8pw=",
         "type": "tarball",
-        "url": "https://github.com/oscilococcinum/openhantek6022-nix/releases/download/devdrop/openhantek_devdrop_x86_64.tar.gz"
+        "url": "https://github.com/oscilococcinum/openhantek6022-nix/releases/download/devdrop-3.4-rc4-1/openhantek_devdrop_x86_64.tar.gz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://github.com/oscilococcinum/openhantek6022-nix/releases/download/devdrop/openhantek_devdrop_x86_64.tar.gz"
+        "url": "https://github.com/oscilococcinum/openhantek6022-nix/releases/download/devdrop-3.4-rc4-1/openhantek_devdrop_x86_64.tar.gz"
       }
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1739923778,
-        "narHash": "sha256-BqUY8tz0AQ4to2Z4+uaKczh81zsGZSYxjgvtw+fvIfM=",
+        "lastModified": 1740932899,
+        "narHash": "sha256-F0qDu2egq18M3edJwEOAE+D+VQ+yESK6YWPRQBfOqq8=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "36864ed72f234b9540da4cf7a0c49e351d30d3f1",
+        "rev": "1546c45c538633ae40b93e2d14e0bb6fd8f13347",
         "type": "github"
       },
       "original": {
