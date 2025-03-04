@@ -702,69 +702,79 @@
         <translation type="vanished">放大 x%L1</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="649"/>
-        <location filename="../src/dsowidget.cpp" line="651"/>
-        <location filename="../src/dsowidget.cpp" line="692"/>
-        <location filename="../src/dsowidget.cpp" line="739"/>
-        <location filename="../src/dsowidget.cpp" line="748"/>
-        <location filename="../src/dsowidget.cpp" line="769"/>
+        <location filename="../src/dsowidget.cpp" line="652"/>
+        <location filename="../src/dsowidget.cpp" line="654"/>
+        <location filename="../src/dsowidget.cpp" line="695"/>
+        <location filename="../src/dsowidget.cpp" line="742"/>
+        <location filename="../src/dsowidget.cpp" line="751"/>
+        <location filename="../src/dsowidget.cpp" line="779"/>
         <source>/div</source>
         <translation>/div</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="947"/>
+        <location filename="../src/dsowidget.cpp" line="769"/>
+        <source>%1x ovr </source>
+        <translation>%1x ovr </translation>
+    </message>
+    <message>
+        <location filename="../src/dsowidget.cpp" line="900"/>
+        <source>on screen</source>
+        <translation>on screen</translation>
+    </message>
+    <message>
+        <location filename="../src/dsowidget.cpp" line="957"/>
         <source>&lt;b&gt; OFFSET CALIBRATION &lt;/b&gt;</source>
         <translation>&lt;b&gt;偏移量校准&lt;/b</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="955"/>
+        <location filename="../src/dsowidget.cpp" line="965"/>
         <source>TR</source>
         <translation>TR</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="194"/>
+        <location filename="../src/dsowidget.cpp" line="197"/>
         <source>Markers</source>
         <translation>光标</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="451"/>
+        <location filename="../src/dsowidget.cpp" line="454"/>
         <source>Trace position, drag the channel name up or down</source>
         <translation>追踪位置，向上或向下拖动通道名称</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="473"/>
+        <location filename="../src/dsowidget.cpp" line="476"/>
         <source>Trigger position, drag the arrow left or right</source>
         <translation>触发器位置，向左或向右拖动箭头</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="483"/>
+        <location filename="../src/dsowidget.cpp" line="486"/>
         <source>Trigger level, drag the arrow up or down</source>
         <translation>触发器水平，向上或向下拖动箭头</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="497"/>
+        <location filename="../src/dsowidget.cpp" line="500"/>
         <source>Measure or zoom marker &apos;1&apos; and &apos;2&apos;, drag left or right</source>
         <translation>测量或缩放标记&apos;1&apos;和&apos;2&apos;，向左或向右拖动</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="594"/>
-        <location filename="../src/dsowidget.cpp" line="612"/>
+        <location filename="../src/dsowidget.cpp" line="597"/>
+        <location filename="../src/dsowidget.cpp" line="615"/>
         <source>ON</source>
         <translation>ON</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="598"/>
-        <location filename="../src/dsowidget.cpp" line="617"/>
+        <location filename="../src/dsowidget.cpp" line="601"/>
+        <location filename="../src/dsowidget.cpp" line="620"/>
         <source>OFF</source>
         <translation>OFF</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="638"/>
+        <location filename="../src/dsowidget.cpp" line="641"/>
         <source>Markers  </source>
         <translation>光标  </translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="644"/>
+        <location filename="../src/dsowidget.cpp" line="647"/>
         <source>Zoom x%1  </source>
         <translation>缩放x%1  </translation>
     </message>
@@ -781,7 +791,7 @@
         <translation type="vanished">放大 x%L1  </translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="647"/>
+        <location filename="../src/dsowidget.cpp" line="650"/>
         <source>Zoom ---  </source>
         <translation>放大 ---  </translation>
     </message>
@@ -790,22 +800,21 @@
         <translation type="vanished">%L1%</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="720"/>
+        <location filename="../src/dsowidget.cpp" line="723"/>
         <source>%1  %2  %3  %4  %5</source>
         <translation>%1  %2  %3  %4  %5</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="890"/>
         <source> on screen</source>
-        <translation> on screen</translation>
+        <translation type="vanished"> on screen</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="1004"/>
+        <location filename="../src/dsowidget.cpp" line="1014"/>
         <source>pp</source>
         <translation>pp</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="1010"/>
+        <location filename="../src/dsowidget.cpp" line="1020"/>
         <source>rms</source>
         <translation>rms</translation>
     </message>
@@ -822,7 +831,7 @@
         <translation type="vanished">%1  %2  %3  %4</translation>
     </message>
     <message>
-        <location filename="../src/dsowidget.cpp" line="759"/>
+        <location filename="../src/dsowidget.cpp" line="761"/>
         <source>/s</source>
         <translation>/s</translation>
     </message>
@@ -897,7 +906,7 @@
         <translation type="vanished">获取示波器通道数据失败</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/hantekdsocontrol.cpp" line="574"/>
+        <location filename="../src/hantekdso/hantekdsocontrol.cpp" line="576"/>
         <source>Couldn&apos;t get calibration data from oscilloscope&apos;s EEPROM. Use a config file for calibration!</source>
         <translation>从示波器EEPOM获取校准数据失败，请使用配置文件进行校准！</translation>
     </message>
@@ -1557,15 +1566,15 @@
         <translation>yyyyMMdd_hhmmss</translation>
     </message>
     <message>
-        <location filename="../src/mainwindow.cpp" line="634"/>
-        <location filename="../src/mainwindow.cpp" line="648"/>
+        <location filename="../src/mainwindow.cpp" line="635"/>
+        <location filename="../src/mainwindow.cpp" line="649"/>
         <source>Write error
 %1</source>
         <translation>写入错误
 %1</translation>
     </message>
     <message>
-        <location filename="../src/mainwindow.cpp" line="638"/>
+        <location filename="../src/mainwindow.cpp" line="639"/>
         <source>Save Screenshot</source>
         <translation>保存截图文件</translation>
     </message>
@@ -1574,12 +1583,12 @@
         <translation type="vanished">错误</translation>
     </message>
     <message>
-        <location filename="../src/mainwindow.cpp" line="637"/>
+        <location filename="../src/mainwindow.cpp" line="638"/>
         <source>Image (*.png *.jpg)</source>
         <translation>图像文件 (*.png *.jpg)</translation>
     </message>
     <message>
-        <location filename="../src/mainwindow.cpp" line="637"/>
+        <location filename="../src/mainwindow.cpp" line="638"/>
         <source>Portable Document Format (*.pdf)</source>
         <translation>便携式文件格式 (*.pdf)</translation>
     </message>
@@ -1588,7 +1597,7 @@
         <translation type="vanished">保存截图文件</translation>
     </message>
     <message>
-        <location filename="../src/mainwindow.cpp" line="671"/>
+        <location filename="../src/mainwindow.cpp" line="672"/>
         <source>Print oscillograph</source>
         <translation>打印波形</translation>
     </message>
@@ -1930,119 +1939,129 @@
         <translation type="vanished">使用OpenGL ES代替OpenGL</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="34"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="35"/>
         <source>CH1 + CH2</source>
         <translation>CH1 + CH2</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="36"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="37"/>
         <source>CH1 - CH2</source>
         <translation>CH1 - CH2</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="38"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="39"/>
         <source>CH2 - CH1</source>
         <translation>CH2 - CH1</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="40"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="41"/>
         <source>CH1 * CH2</source>
         <translation>CH1 * CH2</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="42"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="43"/>
         <source>CH1 &amp; CH2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="44"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="45"/>
         <source>/CH1 &amp; /CH2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="46"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="47"/>
         <source>/CH1 &amp; CH2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="48"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="49"/>
         <source>CH1 &amp; /CH2</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="50"/>
-        <source>CH1 == CH2</source>
-        <translation type="unfinished"></translation>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="53"/>
+        <source>CH1 &gt; CH2</source>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="52"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="51"/>
+        <source>CH1 ≡ CH2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="55"/>
+        <source>CH1 &lt; CH2</source>
+        <translation></translation>
+    </message>
+    <message>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="57"/>
         <source>CH1 LP10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="54"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="59"/>
         <source>CH2 LP10</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="56"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="61"/>
         <source>CH1 LP100</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="58"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="63"/>
         <source>CH2 LP100</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="60"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="65"/>
         <source>CH1²</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="62"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="67"/>
         <source>CH2²</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="72"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="77"/>
         <source>CH1 Abs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="74"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="79"/>
         <source>CH2 Abs</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="76"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="81"/>
         <source>CH1 Sign</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="78"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="83"/>
         <source>CH2 Sign</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="80"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="85"/>
         <source>CH1 AC Sign</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="82"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="87"/>
         <source>CH2 AC Sign</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="84"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="89"/>
         <source>CH1 Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="86"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="91"/>
         <source>CH2 Trigger</source>
-        <translation type="unfinished"></translation>
+        <translation></translation>
     </message>
     <message>
         <source>CH1+CH2</source>
@@ -2081,22 +2100,22 @@
         <translation type="obsolete">CH1*CH2 {2*?} {1^?}</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="64"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="69"/>
         <source>CH1 AC</source>
         <translation>CH1 AC</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="66"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="71"/>
         <source>CH2 AC</source>
         <translation>CH2 AC</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="68"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="73"/>
         <source>CH1 DC</source>
         <translation>CH1 DC</translation>
     </message>
     <message>
-        <location filename="../src/hantekdso/mathmodes.cpp" line="70"/>
+        <location filename="../src/hantekdso/mathmodes.cpp" line="75"/>
         <source>CH2 DC</source>
         <translation>CH2 DC</translation>
     </message>
@@ -2488,42 +2507,42 @@
         <translation>电压</translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="55"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="56"/>
         <source>CH&amp;%1</source>
         <translation>CH&amp;%1</translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="57"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="58"/>
         <source>MA&amp;TH</source>
         <translation>MA&amp;TH</translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="61"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="62"/>
         <source>Voltage range per vertical screen division</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="75"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="77"/>
         <source>Select DC or AC coupling</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="79"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="82"/>
         <source>Select the mathematical operation for this channel</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="62"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="63"/>
         <source>Invert</source>
         <translation>反转</translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="65"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="67"/>
         <source>Set probe attenuation, scroll or type a value to select</source>
         <translation type="unfinished"></translation>
     </message>
     <message>
-        <location filename="../src/docks/VoltageDock.cpp" line="68"/>
+        <location filename="../src/docks/VoltageDock.cpp" line="70"/>
         <source>x</source>
         <translation>x</translation>
     </message>
