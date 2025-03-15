@@ -1,0 +1,41 @@
+{
+  "nodes": {
+    "devdrop": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1742906034,
+        "narHash": "sha256-vYTuTqx9Y1XSIUvGbTIAkdCdV5my5QwmQ4FtjH6+//Y=",
+        "type": "tarball",
+        "url": "https://github.com/OpenHantek/OpenHantek6022/releases/download/devdrop/openhantek_3.4.0-1-g982f746-devdrop_x86_64.tar.gz"
+      },
+      "original": {
+        "type": "tarball",
+        "url": "https://github.com/OpenHantek/OpenHantek6022/releases/download/devdrop/openhantek_3.4.0-1-g982f746-devdrop_x86_64.tar.gz"
+      }
+    },
+    "nixpkgs": {
+      "locked": {
+        "lastModified": 1742751704,
+        "narHash": "sha256-rBfc+H1dDBUQ2mgVITMGBPI1PGuCznf9rcWX/XIULyE=",
+        "owner": "NixOS",
+        "repo": "nixpkgs",
+        "rev": "f0946fa5f1fb876a9dc2e1850d9d3a4e3f914092",
+        "type": "github"
+      },
+      "original": {
+        "owner": "NixOS",
+        "ref": "nixos-24.11",
+        "repo": "nixpkgs",
+        "type": "github"
+      }
+    },
+    "root": {
+      "inputs": {
+        "devdrop": "devdrop",
+        "nixpkgs": "nixpkgs"
+      }
+    }
+  },
+  "root": "root",
+  "version": 7
+}
