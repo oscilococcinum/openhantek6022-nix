@@ -3,14 +3,13 @@
   autoPatchelfHook,
   libsForQt5,
   pkgs,
-  src
+  src,
+  pname,
+  version,
 }:
 
 stdenv.mkDerivation rec {
-  pname = "openhantek";
-  version = "devdrop";
-
-  inherit src;
+  inherit src pname version;
 
   nativeBuildInputs = [
     autoPatchelfHook

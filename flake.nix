@@ -1,7 +1,7 @@
 {
   inputs = {
     nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
-    stable = {
+    openhantek-stable = {
       url = "https://github.com/OpenHantek/OpenHantek6022/releases/download/3.4.0/openhantek_3.4.0_x86_64.tar.gz";
       flake = false;
     };
@@ -18,7 +18,11 @@
               inherit system;
               config.allowUnfree = true;
             }; rec {
-              openhantek6022 = pkgs.callPackage (import ./package/default.nix) { src = inputs.stable; };
+              openhantek6022 = pkgs.callPackage (import ./pkg/default.nix) {
+                src = inputs.openhantek-stable;
+                pname = "openhantek";
+                version = "stable";
+              };
               default = openhantek6022;
             };
         }) [ "x86_64-linux" ]
