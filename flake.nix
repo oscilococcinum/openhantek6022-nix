@@ -1,6 +1,6 @@
 {
   inputs = {
-    nixpkgs.url = "github:NixOS/nixpkgs/nixos-25.11";
+    nixpkgs.url = "github:NixOS/nixpkgs/nixos-26.05";
     openhantek-stable = {
       url = "https://github.com/OpenHantek/OpenHantek6022/releases/download/3.4.0/openhantek_3.4.0_x86_64.tar.gz";
       flake = false;
